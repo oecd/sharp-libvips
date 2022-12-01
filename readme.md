@@ -30,7 +30,7 @@ and add it to `$/sharp/{version}` (`$/sharp/v0.28.1` in this case)
 
 ## libvips
 
-go to https://github.com/lovell/sharp/blob/master/package.json:
+go to https://github.com/lovell/sharp/blob/main/package.json:
 
 ```
 ...
